@@ -32,6 +32,9 @@ pip install -r requirements.txt
 ## Step 4
 Download your firebase-adminsdk.json in your Firebase account after creating the project
 
+![download-json-firebase](https://github.com/user-attachments/assets/f3459483-83e7-41c6-9d30-0414db7f4bee)
+
+Don't forget to rename the firebase-adminsdk.json path in db.py
 
 ## Step 5
 Execute API app by using uvicorn
@@ -43,3 +46,6 @@ Enter `http://<your-ip-network>:<your-port>/docs` to access Swagger UI
 
 ## Last Step
 Viola, you can Create, Read, Update, and Delete (CRUD) the data through Swagger UI. Please check the schemas for the input
+
+Overview of API App (Swagger UI)
+![image](https://github.com/user-attachments/assets/6f3b5b41-2571-4d57-9c66-4e88da961696)
