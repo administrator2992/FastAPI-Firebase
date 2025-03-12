@@ -1,0 +1,4 @@
+__pycache__/
+fastfire/
+firebase-adminsdk.json
+.DS_Store
