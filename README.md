@@ -1,7 +1,7 @@
 # FastAPI-Firebase
 API App w/ Firebase Database
 
-## Prerequirement
+## Prerequisite
 You need :
 - Terminal/CMD
 - Python >3.7
